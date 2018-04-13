@@ -1,0 +1,2 @@
+Convert julian date to the calendar date:
+  TO_DATE(TO_NUMBER(1900000 + TABLE_COLOUMN, '9999999'), 'YYYYDDD') 

@@ -5,3 +5,6 @@ SQL work notes:
  
 2. Select distinct COLOUMN_NAME from TABLE_NAME
 
+3. Floor(n) returns largest integer equal to or less than n
+   Round(n, integer) round to the "integer" position, this places to the right of decimal point
+
